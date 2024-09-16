@@ -174,7 +174,7 @@ a {
     border-radius: 50px;
 }
 .left-nevigation::-webkit-scrollbar-thumb{
-    background-color: rgb(215, 35, 35);
+    background-color: rgba(215, 35, 35, 0.616);
     border-radius: 50px;
 }
 main{
@@ -225,7 +225,7 @@ main{
     border-radius: 50px;
 }
 .top-line::-webkit-scrollbar-thumb{
-    background-color: rgb(215, 35, 35);
+    background-color: rgba(215, 35, 35, 0.511);
     border-radius: 50px;
 }
 
@@ -352,6 +352,6 @@ a.short-video{
     border-radius: 50px;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: rgb(215, 35, 35);
+    background-color: rgba(215, 35, 35, 0.597);
     border-radius: 50px;
 }
